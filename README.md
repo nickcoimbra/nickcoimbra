@@ -1,8 +1,7 @@
 ### Hi there, I'm Nícolas Coimbra 👋
 
-- 🔭 I’m currently working on Phi.
-- 🌱 I’m currently learning Java.
-- 💬 Ask me about API tests.
+- 🔭 I’m currently working on MagaluPay.
+- 🌱 I’m currently learning Harness.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/n%C3%ADcolas-coimbra-341275ab/)
 - 😄 Pronouns: He/His
 
